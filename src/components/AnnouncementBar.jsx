@@ -1,4 +1,4 @@
-
+import React, { useState, useEffect } from 'react';
 import { Sparkles, ArrowRight, Tag } from 'lucide-react';
 import { useShop } from '../context/ShopContext';
 
